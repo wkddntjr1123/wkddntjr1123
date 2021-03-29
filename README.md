@@ -1,3 +1,4 @@
+[![wkddntjr1123's GitHub stats](https://github-readme-stats.vercel.app/api?username=wkddntjr1123&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi there 👋
 ### Hi 
 <!--
