@@ -1,6 +1,5 @@
 [![wkddntjr1123's GitHub stats](https://github-readme-stats.vercel.app/api?username=wkddntjr1123&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-### Hi there 👋
-### Hi 
+### 웹 개발 코린이입니다!
 <!--
 **wkddntjr1123/wkddntjr1123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
