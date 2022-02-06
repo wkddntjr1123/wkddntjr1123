@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://img.shields.io/github/languages/count/beygee/survive
+<img src="https://img.shields.io/github/languages/count/beygee/survive"/>
+
