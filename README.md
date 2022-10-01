@@ -4,14 +4,14 @@
 <br/>
 
 <samp>I'm `Jang Wooseok` from 🇰🇷 Republic of Korea. You can call me **Wooseok**!  
-I'm Undergraduate Student of Computer Science & Engeenering of Jeonbuk National University.  
-I'm studying hard to be a **Full Stack Developer**. I like *Back-End* things more, but I am also interested in *Front-End* and wanna be a expert of it.</samp>    
+I'm Undergraduate Student of Computer Science of Jeonbuk National University.  
+I'm studying hard to be a **Full Stack Developer**. I like *Back-End* things more, but I am also interested in *Front-End*.</samp>    
 
 [![Github Pages Badge](https://img.shields.io/badge/Blog-2c384a?style=flat-square&logo=GitHub&logoColor=ffffff)](https://wkddntjr1123.github.io)&nbsp;
 [![Email](http://img.shields.io/badge/-wkddntjr1123@gmail.com-4885ed?style=flat-square&logo=gmail&link=mailto:wkddntjr1123@gmail.com)](mailto:wkddntjr1123@gmail.com)&nbsp;
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=wkddntjr1123)](https://solved.ac/wkddntjr1123)
 <br/>
-### ✏️ I’m currently studying  
+### ✏️ I’m currently learning  
 <samp>Language: Javascript, TypeScript, Python, Java</samp>   
 <samp>Framework: Express.JS, Django, Spring</samp>  
 
