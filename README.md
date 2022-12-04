@@ -13,9 +13,9 @@ I'm studying hard to be a **Full Stack Developer**. I like *Back-End* things mor
 <br/>
 ### ✏️ I’m currently learning  
 <samp>Language: Javascript, TypeScript, Python, Java</samp>   
-<samp>Framework: Express.JS, Django, Spring</samp>  
+<samp>Framework: Express.js, Nest.js, Django</samp>  
 
 ### 📌 I’m currently doing  
-<samp>[CICS](https://cics.center) Fullstack Developer (2021.02 ~ 2022.02)</samp>  
+<samp>NAVER Boostcamp 7th Membership (2022.09 ~ )</samp>  
 <samp>NAVER Boostcamp 7th Challenge (2022.07 ~ 2022.08)</samp>   
-<samp>NAVER Boostcamp 7th Membership (2022.09 ~ )</samp>
+<samp>[CICS](https://cics.center) Fullstack Developer (2021.02 ~ 2022.01)</samp>  
