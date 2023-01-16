@@ -21,6 +21,7 @@ I'm studying hard to be a **Full Stack Developer**. I like *Back-End* things mor
 <samp>[CICS](https://cics.center) Fullstack Developer (2021.02 ~ 2022.01)</samp>  
 
 ### 📚 Article
+[Goodbye 2022, Hello 2023 - 2022년 회고](https://wkddntjr1123.github.io/thought/retrospect/)  
 [네부캠 그룹프로젝트 - 7. (Bug) 백엔드에서 클라이언트 IP가 제대로 안읽힌다?](https://wkddntjr1123.github.io/project/devrank7/)  
 [네부캠 그룹프로젝트 - 6. 부하 테스트(feat. MongoDB index)](https://wkddntjr1123.github.io/project/devrank6/)  
 [네부캠 그룹프로젝트 - 5. Redis 활용기](https://wkddntjr1123.github.io/project/devrank5/)  
