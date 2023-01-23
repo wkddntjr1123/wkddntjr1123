@@ -13,4 +13,4 @@ I'm currently working in `Kakao-Mobility` as a back-end engineer.
 <samp>[CICS](https://cics.center) Fullstack Engineer (2021.02 ~ 2022.01)</samp>  
 
 ## Link
-[![Github Pages Badge](https://img.shields.io/badge/Blog-2c384a?style=flat-square&logo=GitHub&logoColor=ffffff)](https://wkddntjr1123.github.io)&nbsp;
+[![Github Pages Badge](https://img.shields.io/badge/Blog-2c384a?style=flat-square&logo=Blogger&logoColor=ffffff)](https://wkddntjr1123.github.io)&nbsp;
