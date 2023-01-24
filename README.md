@@ -12,4 +12,4 @@ I'm currently working in `Kakao-Mobility` as a back-end engineer.
 
 ## Contact
 [![Email](http://img.shields.io/badge/-wkddntjr1123@gmail.com-1f1f1f?style=flat-square&logo=gmail&link=mailto:wkddntjr1123@gmail.com)](mailto:wkddntjr1123@gmail.com)
-[![Github Pages Badge](https://img.shields.io/badge/Blog-2c384a?style=flat-square&logo=Blogger&logoColor=ffffff)](https://wkddntjr1123.github.io)&nbsp;
+[![Github Pages Badge](https://img.shields.io/badge/Blog-2c384a?style=flat-square&logo=Blogger&logoColor=ffffff)](https://wslog.dev)&nbsp;
